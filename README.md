@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up 👊
 - 🎓 Information Systems at UFRPE
 - 🌱 Trying dive into data science and machine learning world
 
