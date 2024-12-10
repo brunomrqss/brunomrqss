@@ -1,6 +1,6 @@
 ## What's up 👊
 - 🎓 Information Systems at UFRPE
-- 🌱 Trying dive into data science and machine learning world
+- 🌱 Trying dive into data world
 
 ## Knowledge
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
